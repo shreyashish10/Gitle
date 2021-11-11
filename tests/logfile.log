@@ -1,0 +1,170 @@
+2021-10-19 08:51:28,425 :INFO : test_e2e :entering user nsme
+2021-10-19 08:51:28,505 :INFO : test_e2e :pressing next entering user name
+2021-10-19 08:51:28,568 :INFO : test_e2e :Entering pass word
+2021-10-19 08:51:29,184 :INFO : test_e2e :pressing next after submitting the password
+2021-10-19 08:51:41,694 :INFO : test_e2e :verifying the title Asset Global1
+2021-10-19 08:54:37,241 :INFO : test_e2e :entering user nsme
+2021-10-19 08:54:37,304 :INFO : test_e2e :pressing next entering user name
+2021-10-19 08:54:37,349 :INFO : test_e2e :Entering pass word
+2021-10-19 08:54:37,950 :INFO : test_e2e :pressing next after submitting the password
+2021-10-19 08:54:51,357 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 10:01:47,071 :INFO : test_e2e :entering user name
+2021-10-21 10:01:47,190 :INFO : test_e2e :pressing next entering user name
+2021-10-21 10:01:47,314 :INFO : test_e2e :Entering pass word
+2021-10-21 10:01:48,027 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 10:02:00,624 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 10:02:00,659 :INFO : test_e2e :entering user name
+2021-10-21 10:02:00,659 :INFO : test_e2e :entering user name
+2021-10-21 10:06:10,841 :INFO : test_e2e :entering user name
+2021-10-21 10:06:10,964 :INFO : test_e2e :pressing next entering user name
+2021-10-21 10:06:11,070 :INFO : test_e2e :Entering pass word
+2021-10-21 10:06:11,794 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 10:06:23,793 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 10:06:29,733 :INFO : test_e2e :entering user name
+2021-10-21 10:06:29,733 :INFO : test_e2e :entering user name
+2021-10-21 10:06:29,881 :INFO : test_e2e :pressing next entering user name
+2021-10-21 10:06:29,881 :INFO : test_e2e :pressing next entering user name
+2021-10-21 10:06:29,984 :INFO : test_e2e :Entering pass word
+2021-10-21 10:06:29,984 :INFO : test_e2e :Entering pass word
+2021-10-21 10:06:30,697 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 10:06:30,697 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 10:06:43,389 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 10:06:43,389 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 20:44:41,886 :INFO : test_e2e :entering user name
+2021-10-21 20:44:42,023 :INFO : test_e2e :pressing next entering user name
+2021-10-21 20:44:42,152 :INFO : test_e2e :Entering pass word
+2021-10-21 20:44:42,854 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 20:45:10,378 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 20:45:11,939 :INFO : test_e2e :entering user name
+2021-10-21 20:45:11,939 :INFO : test_e2e :entering user name
+2021-10-21 20:46:43,432 :INFO : test_e2e :entering user name
+2021-10-21 20:46:43,557 :INFO : test_e2e :pressing next entering user name
+2021-10-21 20:46:43,680 :INFO : test_e2e :Entering pass word
+2021-10-21 20:46:44,383 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 20:46:56,514 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 20:46:56,555 :INFO : test_e2e :entering user name
+2021-10-21 20:46:56,555 :INFO : test_e2e :entering user name
+2021-10-21 20:48:05,674 :INFO : test_e2e :entering user name
+2021-10-21 20:48:05,807 :INFO : test_e2e :pressing next entering user name
+2021-10-21 20:48:05,915 :INFO : test_e2e :Entering pass word
+2021-10-21 20:48:06,640 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 20:48:20,774 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 20:48:26,504 :INFO : test_e2e :entering user name
+2021-10-21 20:48:26,504 :INFO : test_e2e :entering user name
+2021-10-21 20:48:26,697 :INFO : test_e2e :pressing next entering user name
+2021-10-21 20:48:26,697 :INFO : test_e2e :pressing next entering user name
+2021-10-21 20:48:26,780 :INFO : test_e2e :Entering pass word
+2021-10-21 20:48:26,780 :INFO : test_e2e :Entering pass word
+2021-10-21 20:48:27,493 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 20:48:27,493 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 20:48:39,181 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 20:48:39,181 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 20:49:22,920 :INFO : test_e2e :entering user name
+2021-10-21 20:49:23,057 :INFO : test_e2e :pressing next entering user name
+2021-10-21 20:49:23,137 :INFO : test_e2e :Entering pass word
+2021-10-21 20:49:23,818 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 20:49:35,120 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 20:49:42,403 :INFO : test_e2e :entering user name
+2021-10-21 20:49:42,403 :INFO : test_e2e :entering user name
+2021-10-21 20:49:42,575 :INFO : test_e2e :pressing next entering user name
+2021-10-21 20:49:42,575 :INFO : test_e2e :pressing next entering user name
+2021-10-21 20:49:42,691 :INFO : test_e2e :Entering pass word
+2021-10-21 20:49:42,691 :INFO : test_e2e :Entering pass word
+2021-10-21 20:49:43,394 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 20:49:43,394 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 20:49:54,819 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 20:49:54,819 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 20:53:57,178 :INFO : test_e2e :entering user name
+2021-10-21 20:53:57,300 :INFO : test_e2e :pressing next entering user name
+2021-10-21 20:54:01,427 :INFO : test_e2e :Entering pass word
+2021-10-21 20:54:01,564 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 20:54:22,162 :INFO : test_e2e :entering user name
+2021-10-21 20:54:22,162 :INFO : test_e2e :entering user name
+2021-10-21 20:54:22,297 :INFO : test_e2e :pressing next entering user name
+2021-10-21 20:54:22,297 :INFO : test_e2e :pressing next entering user name
+2021-10-21 20:54:26,404 :INFO : test_e2e :Entering pass word
+2021-10-21 20:54:26,404 :INFO : test_e2e :Entering pass word
+2021-10-21 20:54:26,507 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 20:54:26,507 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 20:55:40,059 :INFO : test_e2e :entering user name
+2021-10-21 20:55:40,160 :INFO : test_e2e :pressing next entering user name
+2021-10-21 20:55:44,266 :INFO : test_e2e :Entering pass word
+2021-10-21 20:55:44,372 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 20:57:35,213 :INFO : test_e2e :entering user name
+2021-10-21 20:57:35,340 :INFO : test_e2e :pressing next entering user name
+2021-10-21 20:57:39,461 :INFO : test_e2e :Entering pass word
+2021-10-21 20:57:39,563 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 20:57:51,124 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 22:26:17,288 :INFO : test_e2e :entering user name
+2021-10-21 22:26:17,361 :INFO : test_e2e :pressing next entering user name
+2021-10-21 22:26:21,418 :INFO : test_e2e :Entering pass word
+2021-10-21 22:26:21,491 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 22:26:40,596 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 22:30:51,318 :INFO : test_e2e :entering user name
+2021-10-21 22:30:51,391 :INFO : test_e2e :pressing next entering user name
+2021-10-21 22:30:55,451 :INFO : test_e2e :Entering pass word
+2021-10-21 22:30:55,540 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 22:31:23,021 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 22:37:12,859 :INFO : test_e2e :entering user name
+2021-10-21 22:37:12,926 :INFO : test_e2e :pressing next entering user name
+2021-10-21 22:37:16,997 :INFO : test_e2e :Entering pass word
+2021-10-21 22:37:17,076 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 22:37:45,191 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 22:49:51,498 :INFO : test_e2e :entering user name
+2021-10-21 22:49:51,571 :INFO : test_e2e :pressing next entering user name
+2021-10-21 22:49:55,634 :INFO : test_e2e :Entering pass word
+2021-10-21 22:49:55,708 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 22:50:07,847 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 22:51:16,466 :INFO : test_e2e :entering user name
+2021-10-21 22:51:16,577 :INFO : test_e2e :pressing next entering user name
+2021-10-21 22:51:20,644 :INFO : test_e2e :Entering pass word
+2021-10-21 22:51:20,713 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 22:51:32,582 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 23:18:05,507 :INFO : test_e2e :entering user name
+2021-10-21 23:18:05,569 :INFO : test_e2e :pressing next entering user name
+2021-10-21 23:18:09,621 :INFO : test_e2e :Entering pass word
+2021-10-21 23:18:09,684 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 23:18:21,700 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 23:18:26,710 :INFO : test_e2e :changing language
+2021-10-21 23:18:26,757 :INFO : test_e2e :selecting drop down for language
+2021-10-21 23:18:26,815 :INFO : test_e2e :selecting language English
+2021-10-21 23:20:34,182 :INFO : test_e2e :entering user name
+2021-10-21 23:20:34,241 :INFO : test_e2e :pressing next entering user name
+2021-10-21 23:20:38,299 :INFO : test_e2e :Entering pass word
+2021-10-21 23:20:38,363 :INFO : test_e2e :pressing next after submitting the password
+2021-10-21 23:20:49,786 :INFO : test_e2e :verifying the title Asset Global
+2021-10-21 23:20:54,805 :INFO : test_e2e :changing language
+2021-10-21 23:20:54,880 :INFO : test_e2e :selecting drop down for language
+2021-10-21 23:20:54,942 :INFO : test_e2e :selecting language English
+2021-11-06 00:00:37,080 :INFO : test_e2e :entering user name
+2021-11-06 00:00:37,157 :INFO : test_e2e :pressing next entering user name
+2021-11-06 00:00:41,219 :INFO : test_e2e :Entering pass word
+2021-11-06 00:00:41,286 :INFO : test_e2e :pressing next after submitting the password
+2021-11-06 00:01:13,618 :INFO : test_e2e :verifying the title Asset Global
+2021-11-06 00:01:18,639 :INFO : test_e2e :changing language
+2021-11-06 00:01:18,703 :INFO : test_e2e :selecting drop down for language
+2021-11-06 00:01:18,769 :INFO : test_e2e :selecting language English
+2021-11-11 23:40:41,509 :INFO : test_e2e :entering user name
+2021-11-11 23:40:41,608 :INFO : test_e2e :pressing next entering user name
+2021-11-11 23:40:45,705 :INFO : test_e2e :Entering pass word
+2021-11-11 23:40:45,824 :INFO : test_e2e :pressing next after submitting the password
+2021-11-11 23:41:13,093 :INFO : test_e2e :verifying the title Asset Global
+2021-11-11 23:41:18,111 :INFO : test_e2e :changing language
+2021-11-11 23:41:18,212 :INFO : test_e2e :selecting drop down for language
+2021-11-11 23:41:18,308 :INFO : test_e2e :selecting language English
+2021-11-11 23:52:17,410 :INFO : test_e2e :entering user name
+2021-11-11 23:52:17,515 :INFO : test_e2e :pressing next entering user name
+2021-11-11 23:52:21,600 :INFO : test_e2e :Entering pass word
+2021-11-11 23:52:21,725 :INFO : test_e2e :pressing next after submitting the password
+2021-11-11 23:52:49,569 :INFO : test_e2e :verifying the title Asset Global
+2021-11-11 23:52:54,582 :INFO : test_e2e :changing language
+2021-11-11 23:52:54,689 :INFO : test_e2e :selecting drop down for language
+2021-11-11 23:52:54,833 :INFO : test_e2e :selecting language English
+2021-11-12 00:13:39,368 :INFO : test_e2e :entering user name
+2021-11-12 00:13:39,475 :INFO : test_e2e :pressing next entering user name
+2021-11-12 00:13:43,560 :INFO : test_e2e :Entering pass word
+2021-11-12 00:13:43,660 :INFO : test_e2e :pressing next after submitting the password
+2021-11-12 00:13:56,628 :INFO : test_e2e :verifying the title Asset Global
+2021-11-12 00:14:01,650 :INFO : test_e2e :changing language
+2021-11-12 00:14:01,752 :INFO : test_e2e :selecting drop down for language
+2021-11-12 00:14:01,880 :INFO : test_e2e :selecting language English
