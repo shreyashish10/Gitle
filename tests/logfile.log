@@ -176,3 +176,32 @@
 2021-12-05 19:25:14,420 :INFO : test_e2e :changing language
 2021-12-05 19:25:14,501 :INFO : test_e2e :selecting drop down for language
 2021-12-05 19:25:14,597 :INFO : test_e2e :selecting language English
+2021-12-08 00:05:18,022 :INFO : test_e2e :entering user name
+2021-12-08 00:05:18,141 :INFO : test_e2e :pressing next entering user name
+2021-12-08 00:05:22,253 :INFO : test_e2e :Entering pass word
+2021-12-08 00:05:22,359 :INFO : test_e2e :pressing next after submitting the password
+2021-12-08 00:05:34,109 :INFO : test_e2e :verifying the title Asset Global
+2021-12-08 00:05:39,148 :INFO : test_e2e :changing language
+2021-12-08 00:05:39,241 :INFO : test_e2e :selecting drop down for language
+2021-12-08 00:05:39,351 :INFO : test_e2e :selecting language English
+2021-12-08 00:07:06,133 :INFO : test_e2e :entering user name
+2021-12-08 00:07:06,241 :INFO : test_e2e :pressing next entering user name
+2021-12-08 00:07:10,342 :INFO : test_e2e :Entering pass word
+2021-12-08 00:07:10,441 :INFO : test_e2e :pressing next after submitting the password
+2021-12-08 00:07:10,827 :INFO : test_e2e :verifying the title Asset Global
+2021-12-08 00:10:42,134 :INFO : test_e2e :entering user name
+2021-12-08 00:10:42,243 :INFO : test_e2e :pressing next entering user name
+2021-12-08 00:10:46,356 :INFO : test_e2e :Entering pass word
+2021-12-08 00:10:46,455 :INFO : test_e2e :pressing next after submitting the password
+2021-12-08 00:10:56,834 :INFO : test_e2e :verifying the title Asset Global
+2021-12-08 00:11:01,847 :INFO : test_e2e :changing language
+2021-12-08 00:11:01,921 :INFO : test_e2e :selecting drop down for language
+2021-12-08 00:11:02,009 :INFO : test_e2e :selecting language English
+2021-12-08 00:12:28,530 :INFO : test_e2e :entering user name
+2021-12-08 00:12:28,633 :INFO : test_e2e :pressing next entering user name
+2021-12-08 00:12:32,759 :INFO : test_e2e :Entering pass word
+2021-12-08 00:12:32,863 :INFO : test_e2e :pressing next after submitting the password
+2021-12-08 00:12:43,742 :INFO : test_e2e :verifying the title Asset Global
+2021-12-08 00:12:48,764 :INFO : test_e2e :changing language
+2021-12-08 00:12:48,878 :INFO : test_e2e :selecting drop down for language
+2021-12-08 00:12:48,990 :INFO : test_e2e :selecting language English
